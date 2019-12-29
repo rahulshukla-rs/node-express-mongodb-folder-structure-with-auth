@@ -1,7 +1,7 @@
 {
-  "name": "node-express-mongodb-folder-structure",
+  "name": "node-express-mongodb-folder-structure-with-auth",
   "version": "1.0.0",
-  "description": "Node + Express + MongoDB (Folder Structure)",
+  "description": "Node + Express + MongoDB (Folder Structure) with JWT Authorization (Async / Await) ES6 Features.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
