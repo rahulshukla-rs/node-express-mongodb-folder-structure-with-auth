@@ -1,10 +1,10 @@
 # node-express-mongodb-folder-structure
-Node + Express + MongoDB (Folder Structure)
+Node + Express + MongoDB (Folder Structure) with JWT Authorization (Async / Await) ES6 Features.
 
-Note: This is use for entry level API (Without Auth).
+Note: This is use for Advance level API using new features.
 
-I have created one more folder structure for Advance use, JWT Auth & Middelware<br>
-Link: #
+I have created one more folder structure for Basic use, without JWT Auth & Middelware<br>
+Link: https://github.com/rahulshukla-rs/node-express-mongodb-folder-structure
 
 <b>Organizing our application:</b>
 
@@ -17,6 +17,7 @@ Inside the MainApp directory, I have created the following four subdirectories
   - controllers
   - models
   - routes
+  - middleware
 - package.json
 - .gitignore
 - node_modules
