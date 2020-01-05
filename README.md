@@ -1,5 +1,5 @@
 # node-express-mongodb-folder-structure
-Node + Express + MongoDB (Folder Structure) with JWT Authorization (Async / Await) ES6 Features.
+Node + Express + MongoDB (Folder Structure) with JWT Authorization + Custom ACL (Async / Await) ES6 Features.
 
 Note: This is use for Advance level API using new features.
 
@@ -13,6 +13,7 @@ Inside the MainApp directory, I have created the following four subdirectories
 - app.js
 - config
   - server.js
+  - acl.js
 - api
   - controllers
   - models
