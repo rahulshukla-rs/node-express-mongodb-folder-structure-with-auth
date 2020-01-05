@@ -1,7 +1,7 @@
 {
   "name": "node-express-mongodb-folder-structure-with-auth",
   "version": "1.0.0",
-  "description": "Node + Express + MongoDB (Folder Structure) with JWT Authorization (Async / Await) ES6 Features.",
+  "description": "Node + Express + MongoDB (Folder Structure) with JWT Authorization & Custom ACL (Async / Await) ES6 Features.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -12,7 +12,6 @@
   "author": "Rahul Shukla",
   "license": "ISC",
   "dependencies": {
-    "acl": "^0.4.11",
     "bcrypt": "^3.0.7",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",

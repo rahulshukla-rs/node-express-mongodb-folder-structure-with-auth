@@ -23,7 +23,7 @@ Method: POST
 Des: Login
 Route: Public
 */
-router.post("/login",UserController.login);
+router.post("/login", UserController.login);
 
 
 
